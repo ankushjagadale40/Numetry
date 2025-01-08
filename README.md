@@ -1,5 +1,10 @@
 Live Demo https://numetry-task1-auth.vercel.app/
 
+![Screenshot (1131)](https://github.com/user-attachments/assets/adc715c9-a499-4f97-91ef-4877aae04c30)
+
+![Screenshot (1132)](https://github.com/user-attachments/assets/45102881-4568-47a6-af88-ba896f742181)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
